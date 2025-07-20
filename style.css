@@ -1,6 +1,7 @@
 .container {
     background-color: #90ee90;
     padding: 20px;
+    margin: 30px;
     display: flex;
 }
 
