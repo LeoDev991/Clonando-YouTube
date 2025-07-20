@@ -1,0 +1,10 @@
+.container {
+    background-color: #90ee90;
+    padding: 20px;
+    display: flex;
+}
+
+.item{
+    background: orange;
+    margin: 10px;
+}
